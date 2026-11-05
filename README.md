@@ -1,6 +1,6 @@
 # Hi, I'm Jeric 👋
 
-Software Engineer — **Systems & Fullstack Developer** 🚀
+Software Engineer — Building stuff with **React**, **TypeScript**, **Node.js**, and **Rust** 🚀
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-jericbas.github.io-eab308?style=flat-square&logo=astro&logoColor=white)](https://jericbas.github.io)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -22,7 +22,7 @@ Software Engineer — **Systems & Fullstack Developer** 🚀
 
 ## 💻 Projects
 
-Building open-source tools with **Rust**, **React**, and **Node.js**.
+Building stuff with **React**, **TypeScript**, **Node.js**, and **Rust**.
 
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Journey & Devlog Posts
