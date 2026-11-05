@@ -1,18 +1,28 @@
 # Hi, I'm Jeric 👋
 
-Software Engineer — **Fullstack Development** 🚀
+Software Engineer — **Systems & Fullstack Developer** 🚀
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-jericbas.github.io-eab308?style=flat-square&logo=astro&logoColor=white)](https://jericbas.github.io)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, JavaScript/TypeScript
-- **Backend:** Node.js, Express, Python
+- **Frontend:** React.js, Next.js, TypeScript/JavaScript
+- **Backend & Systems:** Node.js, Express, Rust 🦀, Python
 - **Database:** MongoDB
-- **Package Managers:** pnpm, yarn, bun ⚡ (current favorite)
+- **Package Managers:** npm, bun ⚡ (current favorite), pnpm, yarn
 - **Other:** PHP
 
 ## 💻 Projects
 
-Building stuff with React + Node.
+Building open-source tools with **Rust**, **React**, and **Node.js**.
 
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Journey & Devlog Posts
@@ -23,4 +33,5 @@ Building stuff with React + Node.
 
 ## 🔗 Connect
 
-[github.com/jericbas](https://github.com/jericbas)
+- 🌐 **Portfolio & Devlog:** [jericbas.github.io](https://jericbas.github.io)
+- 🐙 **GitHub:** [github.com/jericbas](https://github.com/jericbas)
