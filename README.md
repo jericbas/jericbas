@@ -17,7 +17,6 @@ Building stuff with React + Node.
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Journey & Devlog Posts
 - [**Building at the Seam: Why I Write Developer Tooling in Rust and TypeScript**](https://jericbas.github.io/blog/building-with-rust-and-typescript) - *Nov 1, 2026*
-- [**Building vite-plugin-mock-flow: Eliminating Friction in Local API Mocking (WIP)**](https://jericbas.github.io/blog/vite-plugin-mock-flow-story) - *Oct 25, 2026*
 - [**Solving Dependency Hell: The Origins of why-override**](https://jericbas.github.io/blog/why-override-solving-npm-conflicts) - *Oct 14, 2026*
 
 👉 *Explore my [live portfolio & devlog](https://jericbas.github.io)*
